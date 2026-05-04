@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "python",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "files.autoSave": "onFocusChange",
+  "python.analysis.typeCheckingMode": "off"
+}
