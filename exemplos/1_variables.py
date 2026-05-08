@@ -7,22 +7,11 @@
 print("Tipos de Variáveis:")
 
 myint = 7
-print(type(myint)) # Imprime <class 'int'>
-
 myfloat = 7.0
-print(type(myfloat)) # Imprime <class 'float'>
-
 mybool = True
-print(type(mybool)) # Imprime <class 'bool'>
-
 mystring_1 = 'hello'
-print(type(mystring_1)) # Imprime <class 'str'>
-
 mystring_2 = "world"
-print(type(mystring_2)) # Imprime <class 'str'>
-
 mylist = [1, 2, 3]
-print(type(mylist)) # Imprime <class 'list'>
 
 print("-" * 20)
 
