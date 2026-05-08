@@ -96,7 +96,6 @@ x = 1.2345
 
 print(f"Valor Verdadeiro: {x}; Valor Truncado {x:.2f}")
 
-
 print("-" * 20)
 
 # Também podemos controlar o separador utilizado pelo print().
